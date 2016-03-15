@@ -13,6 +13,7 @@ Pessoal, estamos à procura de um(a) estagiário(a) para desenvolvimento iOS (Sw
 
 ###Sobre a bolsa:
 
+ * Local de trabalho: Centro de Curitiba
  * Jornada de 6h diárias de Seg/Sex
  * Auxílio de R$ 900,00 + VT. 
  * Possibilidade de efetivação, estamos crescendo muito rapidamente e conforme o rendimento terá a possibilidade de crescer conosco.
