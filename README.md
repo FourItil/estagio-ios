@@ -1,7 +1,10 @@
 # Estágio iOS (Swift)
 
 
-Pessoal, estamos à procura de um(a) estagiário(a) para desenvolvimento iOS (Swift). Se alguém tiver interesse favor chamar inbox.
+Estamos à procura de um(a) estagiário(a) para desenvolvimento iOS (Swift). Leia a descrição, indique para seus amigos, candidate-se.
+
+##Validade desta oportunidade
+22/03/2016
 
 ###Informações.
 
